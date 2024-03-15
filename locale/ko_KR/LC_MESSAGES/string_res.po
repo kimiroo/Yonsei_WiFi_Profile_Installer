@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yonsei-WiFi-Profile-Installer 1.0_BETA\n"
+"POT-Creation-Date: 2024-03-14 01:17+0900\n"
+"PO-Revision-Date: 2024-03-14 01:17+0900\n"
+"Last-Translator: \n"
+"Language-Team: kimiroo\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ;_\n"
+"X-Poedit-SearchPath-0: string_res.py\n"
+
+#: string_res.py:17
+msgid "[None]"
+msgstr "[없음]"
+
+#: string_res.py:18
+msgid "Fail"
+msgstr "실패"
+
+#: string_res.py:19
+msgid "failed"
+msgstr "실패"
+
+#: string_res.py:20
+msgid "Success"
+msgstr "성공"
+
+#: string_res.py:21
+msgid "done"
+msgstr "완료"
+
+#: string_res.py:22
+msgid "One or more error has occurred."
+msgstr "하나 이상의 오류가 발생했습니다."
+
+#: string_res.py:23
+msgid ""
+"If a problem occurs or cannot connect to Wi-Fi, contact school IT department "
+"for assistance."
+msgstr ""
+"문제가 지속되거나 Wi-Fi에 연결할 수 없는 경우, 학교 IT부서의 도움을 받으십시"
+"오."
+
+#: string_res.py:24
+msgid "Press any keys to exit..."
+msgstr "종료하려면 아무 키나 누르십시오..."
+
+#: string_res.py:26
+msgid "This may cause additional errors."
+msgstr "설치 중 오류가 추가로 발생할 수 있습니다."
+
+#: string_res.py:27
+msgid "Do you want to ignore this error and continue?"
+msgstr "이 오류를 무시하고 계속 진행하시겠습니까?"
+
+#: string_res.py:28
+msgid "Continuing the installation..."
+msgstr "설치를 계속합니다..."
+
+#: string_res.py:29
+msgid "Exiting the installation..."
+msgstr "설치를 종료합니다..."
+
+#: string_res.py:30
+msgid "\"{}\" is not a valid input."
+msgstr "\"{}\"은(는) 올바른 입력값이 아닙니다."
+
+#: string_res.py:31
+msgid "Error message:"
+msgstr "오류 메시지:"
+
+#: string_res.py:34
+msgid "Installation Failed."
+msgstr "설치에 실패했습니다."
+
+#: string_res.py:35
+msgid "The installer cannot continue."
+msgstr "설치를 계속할 수 없습니다."
+
+#: string_res.py:38
+msgid ""
+"Close all applications and refrain from using the device to prevent possible "
+"collision."
+msgstr ""
+"오류 발생 방지를 위해 가능한 모든 응용프로그램을 종료하고 기기를 조작하지 마"
+"십시오."
+
+#: string_res.py:39
+msgid ""
+"The installer will begin installing Secure Wi-Fi profiles in 5 seconds..."
+msgstr ""
+"설치 프로그램이 5초 뒤 자동으로 보안 Wi-Fi 프로파일 설치를 시작합니다..."
+
+#: string_res.py:40
+msgid "Starting installation..."
+msgstr "설치를 시작합니다..."
+
+#: string_res.py:43
+msgid "Checking system requirements..."
+msgstr "시스템 요구사항을 확인하는 중..."
+
+#: string_res.py:44
+msgid "Detected OS: {} (Build {})"
+msgstr "감지된 운영체제: {} (빌드 {})"
+
+#: string_res.py:45
+msgid "Detected OS: {}"
+msgstr "감지된 운영체제: {}"
+
+#: string_res.py:46
+msgid "Unsupported platform."
+msgstr "지원되지 않는 운영체제."
+
+#: string_res.py:47
+msgid "Windows version too low."
+msgstr "Windows 버전이 너무 낮습니다."
+
+#: string_res.py:50
+msgid "Checking wireless interface..."
+msgstr "무선 인터페이스 상태를 확인하는 중..."
+
+#: string_res.py:51
+msgid "Interface state: {}"
+msgstr "인터페이스 상태: {}"
+
+#: string_res.py:52
+msgid "Service \"WLAN AutoConfig\" (wlansvc) is not running."
+msgstr "\"WLAN AutoConfig\" (wlansvc) 서비스가 실행중이지 않습니다."
+
+#: string_res.py:53
+msgid "Wireless interface not found."
+msgstr "무선 인터페이스를 찾을 수 없습니다."
+
+#: string_res.py:54
+msgid "Wireless interface is normal."
+msgstr "무선 인터페이스가 정상입니다."
+
+#: string_res.py:57
+msgid "Preparing wireless interface..."
+msgstr "무선 인터페이스를 준비하는 중..."
+
+#: string_res.py:58
+msgid "Disconnecting Wi-Fi..."
+msgstr "Wi-Fi 연결을 해제하는 중..."
+
+#: string_res.py:61
+msgid "Deleting old Wi-Fi profiles..."
+msgstr "오래된 Wi-Fi 프로파일을 삭제하는 중..."
+
+#: string_res.py:62
+msgid "Deleting profile \"{}\"..."
+msgstr "\"{}\" 프로파일 삭제 중..."
+
+#: string_res.py:65
+msgid "Generating new Wi-Fi profiles..."
+msgstr "새로운 Wi-Fi 프로파일을 생성하는 중..."
+
+#: string_res.py:66
+msgid "Generating profile \"{}\"..."
+msgstr "\"{}\" 프로파일 생성 중..."
+
+#: string_res.py:69
+msgid "Adding new Wi-Fi profiles to system..."
+msgstr "시스템에 새로운 Wi-Fi 프로파일을 추가하는 중..."
+
+#: string_res.py:70
+msgid "Adding profile \"{}\" to system..."
+msgstr "\"{}\" 프로파일 추가 중..."
+
+#: string_res.py:73
+msgid "Cleaning up temporary files..."
+msgstr "임시 파일을 정리하는 중..."
+
+#: string_res.py:74
+msgid "Deleting \"{}\"..."
+msgstr "\"{}\"을(를) 삭제하는 중..."
+
+#: string_res.py:77
+msgid "You may not be able to connect to Yonsei Wi-Fi."
+msgstr "Yonsei Wi-Fi에 연결하지 못할 수도 있습니다."
+
+#: string_res.py:78
+msgid "Wi-Fi Profile installation was successful."
+msgstr "Wi-Fi 프로파일 설치에 성공했습니다."
+
+#: string_res.py:79
+msgid "Next steps:"
+msgstr "다음 단계:"
+
+#: string_res.py:80
+msgid "1. Open Wi-Fi menu from the settings app or the taskbar."
+msgstr "1. 설정 앱이나 작업 표시줄에서 Wi-Fi 메뉴를 여십시오."
+
+#: string_res.py:81
+msgid "2. Connect to one of Yonsei Wi-Fi networks (Yonsei, eduroam)."
+msgstr "2. Yonsei Wi-Fi 네트워크 중 하나에 연결하십시오. (Yonsei, eduroam)"
+
+#: string_res.py:82
+msgid "3. Enter your Yonsei portal credential when asked."
+msgstr ""
+"3. 사용자 이름과 비밀번호를 물어보면 연세대 포털 로그인 정보를 입력하십시오."
+
+#: string_res.py:83
+msgid "Username: Your student ID number, Password: Your portal password"
+msgstr "사용자 이름: 학번, 비밀번호: 연세대 포털 비밀번호"
+
+#: string_res.py:84
+msgid "4. Enjoy your secure Yonsei Wi-Fi!"
+msgstr "4. 안전한 Yonsei Wi-Fi를 즐기십시오!"
+
+#: string_res.py:87
+msgid "Current machine's OS is not supported."
+msgstr "현재 기기의 운영체제는 지원되지 않습니다."
+
+#: string_res.py:88
+msgid ""
+"Visit {} and\n"
+"find appropriate Wi-Fi connection guide for current device."
+msgstr ""
+"{}에 방문하여\n"
+"현재 기기에 적합한 Wi-Fi 연결 가이드를 참조하십시오."
+
+#: string_res.py:90
+msgid "Current machine's Windows version is not supported."
+msgstr "현재 기기의 Windows 버전은 지원되지 않는 버전입니다."
+
+#: string_res.py:91
+msgid ""
+"Upgrade to newer versions of Windows or\n"
+"Visit {} and\n"
+"find appropriate Wi-Fi connection guide for current Windows version.\n"
+"(Minimum supported version of Windows is Windows 8.)"
+msgstr ""
+"새로운 버전의 Windows로 업그레이드하거나\n"
+"{}에 방문하여\n"
+"현재 기기의 Windows 버전에 적합한 Wi-Fi 연결 가이드를 참조하십시오.\n"
+"(이 설치 프로그램에서 지원하는 최소 Windows 버전은 Windows 8 입니다.)"
+
+#: string_res.py:93
+msgid ""
+"Wireless interface (Wi-Fi Card) is not detected or\n"
+"cannot be accessed on your device."
+msgstr ""
+"현재 기기에 무선 인터페이스 (Wi-Fi)가 없거나 접근할 수 없는 상태입니다."
+
+#: string_res.py:94
+msgid ""
+"This installer only works on Wi-Fi-capable devices.\n"
+"Try rebooting the device or updating/reinstalling the Wi-Fi driver."
+msgstr ""
+"이 설치 프로그램은 Wi-Fi 기능이 있는 기기에서만 동작합니다.\n"
+"기기를 다시 시작하거나 장치 드라이버를 업데이트/재설치 해보십시오."
+
+#: string_res.py:96
+msgid "\"WLAN AutoConfig\" (wlansvc) service is not running on your device."
+msgstr "\"WLAN AutoConfig\" (wlansvc) 서비스가 실행중이지 않습니다."
+
+#: string_res.py:97
+msgid ""
+"Try enabling and starting the required service, then run this installer."
+msgstr ""
+"필요한 서비스를 활성화하고 시작한 다음 이 설치 프로그램을 실행해 보십시오."
+
+#: string_res.py:99
+msgid "Failed to disconnect Wi-Fi before installing new profile."
+msgstr "새로운 Wi-Fi 프로파일을 설치하기 전에 Wi-Fi연결을 해제하지 못했습니다."
+
+#: string_res.py:100
+msgid ""
+"Try running the installer again. If the problem persists,\n"
+"try rebooting the device or updating/reinstalling Wi-Fi driver."
+msgstr ""
+"설치 프로그램을 다시 실행해 보십시오.\n"
+"문제가 지속되는 경우 기기를 다시 시작하거나 Wi-Fi드라이버를 업데이트/재설치 "
+"해보십시오."
+
+#: string_res.py:102
+msgid "Failed to delete old Wi-Fi profile(s)."
+msgstr "오래된 Wi-Fi 프로파일을 삭제하지 못했습니다."
+
+#: string_res.py:103 string_res.py:106
+msgid ""
+"Try running the installer again. If the problem persists, try rebooting the "
+"device."
+msgstr ""
+"설치 프로그램을 다시 실행해 보십시오. 문제가 지속되는 경우 기기를 다시 시작하"
+"십시오."
+
+#: string_res.py:105
+msgid "Failed to add new Wi-Fi profile(s)."
+msgstr "새로운 Wi-Fi 프로파일을 추가하지 못했습니다."
+
+#: string_res.py:108
+msgid "File write failed while generating new Wi-Fi profile file(s)."
+msgstr "새로운 Wi-Fi 프로파일 파일을 생성하는 도중 파일 쓰기에 실패했습니다."
+
+#: string_res.py:109 string_res.py:112 string_res.py:115 string_res.py:118
+#: string_res.py:121 string_res.py:124
+msgid ""
+"Try closing all opened applications or rebooting the device then run this "
+"installer."
+msgstr ""
+"열려있는 모든 응용 프로그램을 종료하거나 기기를 다시 시작한 후 이 설치 프로그"
+"램을 실행해 보십시오."
+
+#: string_res.py:111
+msgid "Generating new Wi-Fi profile file(s) failed."
+msgstr "새로운 Wi-Fi 프로파일을 생성하지 못했습니다."
+
+#: string_res.py:114 string_res.py:117
+msgid "Deleting temporary file(s) failed."
+msgstr "임시 파일을 삭제하지 못했습니다."
+
+#: string_res.py:120
+msgid "Unexpected File IO error occurred:"
+msgstr "예기치 않은 파일 읽기/쓰기 문제 발생:"
+
+#: string_res.py:123
+msgid "Unexpected Error occurred:"
+msgstr "예기치 않은 오류 발생:"
