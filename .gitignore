@@ -1,0 +1,15 @@
+# Cache & temp file
+__pycache__
+
+# Build related
+dist
+build
+
+# Experimental code & resources
+compress.py
+txt*
+
+# Privacy related
+
+# Others
+*.bat
