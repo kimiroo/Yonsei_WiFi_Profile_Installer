@@ -18,7 +18,7 @@ from error import *
 
 APP_NAME = 'Yonsei Wi-Fi Security Profile Installer'
 PACKAGE_NAME = 'Yonsei-WiFi-Profile-Installer'
-APP_VER = '1.1 BETA'
+APP_VER = '1.2 BETA'
 APP_AUTHOR = 'kimiroo'
 
 MINIMUM_KERNEL_VER = 6.2
