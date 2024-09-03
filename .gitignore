@@ -1,13 +1,13 @@
 # Cache & temp file
 __pycache__
+__pycache__/
+*.pyc
 
 # Build related
 dist
 build
 
 # Experimental code & resources
-compress.py
-txt*
 
 # Privacy related
 
